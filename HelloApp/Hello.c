@@ -4,6 +4,6 @@
 
 void main()                  
 {                               
-	doSomething();
+	doSomething(); // use external file
 	_getch();
 }                               
